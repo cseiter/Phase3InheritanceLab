@@ -72,3 +72,4 @@ Play around with it a bit more by trying out the following in this file:
 - Then, `puts` out the existing knowledge of each student.
 
 [ruby shebang]: https://www.learnhowtoprogram.com/ruby-and-rails/basic-ruby/basic-ruby-scripting
+# Phase3InheritanceLab
